@@ -1,10 +1,6 @@
-theme: architect
-@@ -10,7 +10,7 @@ jobs:
-      - uses: actions/checkout@v2
-      - uses: ruby/setup-ruby@v1
-        with:
-          ruby-version: 3.4.2
-          ruby-version: 3.2.0
-          bundler-cache: true
-      - name: build
-        run: script/bootstrap
+# This is a comment
+<!---
+This is random  mesage that I made up in the middle of a random day in a random year.
+I Don't Know What I'm Saying.
+ - Stefanopoliss
+--->
